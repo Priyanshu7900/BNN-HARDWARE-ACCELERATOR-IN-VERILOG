@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: YourName/Sparkonics Hackathon
-// Engineer: [Your Name]
+// Company: Sparkonics Hackathon
+// Engineer: Priyanshu gupta
 // 
 // Create Date: 2025-07-11
 // Module Name: neuron_unit
