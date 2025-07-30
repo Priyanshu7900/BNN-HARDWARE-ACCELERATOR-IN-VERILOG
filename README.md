@@ -1,1 +1,3 @@
-In Progress
+/////////////////////In Progress///////////////////////////////////////
+
+This project proposes a compact and efficient Binary Neural Network (BNN) hardware accelerator designed for edge AI applications. It performs fast inference using XNOR and popcount logic instead of costly multipliers, making it ideal for low-power environments. The architecture includes three fully pipelined BNN layers, each supporting parallel neuron computation. It enables secure model deployment through on-chip decryption of encrypted weights and supports runtime switching between multiple pre-trained models (e.g., for digit recognition and malware detection) without requiring FPGA reprogramming. This makes the design both secure, reconfigurable, and suitable for multi-task AI inference at the edge.
